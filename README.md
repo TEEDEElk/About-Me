@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 - 🌱 I’m continuously learning and exploring new technologies.
 - 👯 I’m looking to collaborate on interesting projects and contribute to the community.
 - 💬 Ask me about anything related to software development, open source, and technology.
-- 📫 How to reach me: [Email](mailto:teedeelk@example.com)
+- 📫 How to reach me: [Email](predeeppp12@gmail.com)
 
 ## 🛠️ Technologies & Tools
 
@@ -22,9 +22,5 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 ![TEEDDelk's GitHub stats](https://github-readme-stats.vercel.app/api?username=TEEDEElk&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/teedeelk)
-- [Twitter](https://twitter.com/teedeelk)
-- [Personal Website](https://teedeelk.dev)
 
 Thanks for visiting my profile! 😊
